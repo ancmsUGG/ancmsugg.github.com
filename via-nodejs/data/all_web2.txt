@@ -1,0 +1,97 @@
+﻿az_AZ[l]web[l]Qeydiyyatdan Keç[l]Sən irəliləmək üçün girməlisən.[l]Facebook Girişi[l]Email or Phone Number[l]Keçidsözü[l]Giriş[l]Need help?[l]Facebookda qeydiyyatdan keç
+id_ID[l]web[l]Mendaftar[l]Anda harus masuk untuk melanjutkan.[l]Masuk Facebook.[l]Email atau Nomor Telepon[l]Kata Sandi[l]Masuk[l]Butuh bantuan?[l]Mendaftar Facebook
+ms_MY[l]web[l]Daftar[l]You must log in to continue.[l]Log masuk ke dalam Facebook[l]E-mel atau Nombor Telefon:[l]Kata Laluan[l]Log Masuk[l]Perlukan bantuan?[l]Daftar untuk Facebook
+jv_ID[l]web[l]Ndaftar[l]Panjenengan kudu mlebet kanggo nglanjutake[l]Masuk Facebook.[l]Email atau Nomor Telepon[l]Sandi[l]Mlebu[l]Perlu pitulungan?[l]Ndaftar Facebook
+cx_PH[l]web[l]Pag-sign Up[l]You must log in to continue.[l]Mag-log in sa Facebook[l]Email o Telepono:[l]Password[l]Pag-log In[l]Need help?[l]Mag-sign up para sa Facebook
+bs_BA[l]web[l]Prijavite se[l]You must log in to continue.[l]Prijavite se na Facebook.[l]E-mail ili telefon:[l]Šifra[l]Prijavite se[l]Need help?[l]Registruj za Facebok
+br_FR[l]web[l]Lakaat e anv[l]Ret eo deoc'h kevreañ evit kenderc'hel.[l]Kevrañ ouzh Facebook[l]Postel pe niverenn bellgomz[l]Ger-tremen[l]Kevreañ[l]Ezhomm Sikour ?[l]Lakaat e anv e Facebook
+ca_ES[l]web[l]Inscriu-te[l]Has d'iniciar sessió per continuar.[l]Log into Facebook[l]Correu electrònic o número de telèfon:[l]Contrasenya[l]Inicia sessió[l]Necessites ajuda?[l]Apunta't al Facebook
+cs_CZ[l]web[l]Zaregistrovat se[l]Pokud chcete pokračovat, musíte se přihlásit.[l]Přihlásit se na Facebook[l]E-mail nebo telefonní číslo[l]Heslo[l]Přihlásit se[l]Potřebujete pomoct?[l]Zaregistrovat se na Facebooku
+cy_GB[l]web[l]Cofrestrwch[l]Rhaid i chi fewngofnodi i barhau.[l]Log into Facebook[l]Email or Phone Number[l]Cyfrinair[l]Mewngofnodi[l]Need help?[l]Ymuno â Facebook
+da_DK[l]web[l]Opret profil[l]Du skal logge på for at fortsætte.[l]Log på Facebook[l]E-mail eller telefonnummer[l]Adgangskode[l]Log på[l]Har du brug for hjælp?[l]Opret en profil på Facebook
+de_DE[l]web[l]Registrieren[l]Melde dich an, um fortzufahren.[l]Bei Facebook anmelden[l]E-Mail-Adresse oder Telefonnummer[l]Passwort[l]Anmelden[l]Benötigst du Hilfe?[l]Für Facebook registrieren
+et_EE[l]web[l]Liitu[l]Jätkamiseks pead sisse logima.[l]Log into Facebook[l]Email or Phone Number[l]Salasõna[l]Logi sisse[l]Need help?[l]Liitu Facebookiga
+en_PI[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+en_GB[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+en_UD[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+en_US[l]web[l]Sign Up[l]You must log in to continue.[l]Log into Facebook[l]Email or Phone Number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+es_LA[l]web[l]Registrarte[l]Debes iniciar sesión para continuar.[l]Inicia sesión en Facebook[l]Correo electrónico o número de teléfono[l]Contraseña[l]Iniciar sesión[l]¿Necesitas ayuda?[l]Regístrate en Facebook
+es_CO[l]web[l]Registrarte[l]Debes iniciar sesión para continuar.[l]Entra en Facebook[l]Correo electrónico o número de teléfono[l]Contraseña[l]Iniciar sesión[l]¿Necesitas ayuda?[l]Regístrate en Facebook
+es_ES[l]web[l]Registrarte[l]Debes iniciar sesión para continuar.[l]Inicia sesión en Facebook[l]Correo electrónico o número de teléfono[l]Contraseña[l]Entrar[l]¿Necesitas ayuda?[l]Regístrate en Facebook
+eo_EO[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+eu_ES[l]web[l]Izena eman[l]Saioa hasi beharko duzu jarraitzeko.[l]Facebook-en sartu[l]Email or Phone Number[l]Pasahitza[l]Sartu[l]Laguntzarik behar?[l]Izena eman Facebook-en
+tl_PH[l]web[l]Mag-sign Up[l]Ikaw ay dapat naka-log in upang magpatuloy.[l]Mag-log in sa Facebook[l]Email O Numero ng Telepono[l]Password[l]Mag-log In[l]Kailangan ng  tulong?[l]Mag-sign up sa Facebook
+fo_FO[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+fr_CA[l]web[l]Inscription[l]Vous devez vous connecter pour continuer.[l]Se connecter à Facebook[l]Adresse courriel ou numéro de téléphone[l]Mot de passe[l]Connexion[l]Besoin d’aide&nbsp;&nbsp;?[l]S’inscrire sur Facebook
+fr_FR[l]web[l]Inscription[l]Vous devez vous connecter pour continuer.[l]Se connecter à Facebook[l]Adresse e-mail ou numéro de téléphone[l]Mot de passe[l]Connexion[l]Besoin d’aide&nbsp;&nbsp;?[l]S’inscrire sur Facebook
+fy_NL[l]web[l]Registrearje[l]Do moast dy oanmelde om troch te gean[l]Oanmelde by Facebook[l]E-mail of telefoannûmer:[l]Wachtwurd[l]Oanmelde[l]Need help?[l]Registrearje dy by Facebook
+ga_IE[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+gl_ES[l]web[l]Rexistrarse[l]Tes que iniciar sesión para continuar.[l]Entrar no Facebook[l]Correo electrónico ou número de teléfono:[l]Contrasinal[l]Iniciar sesión[l]Precisas axuda?[l]Rexistrarse no Facebook
+gn_PY[l]web[l]Eike[l]Eike va'erã Facebook rendápe.[l]Eike Facebook-pe[l]Correo electrónico réra térä teléfono número:[l]Kontraséña[l]Eike[l]Need help?[l]Eñemboheraguy Facebook-pe.
+hr_HR[l]web[l]Registriraj se[l]You must log in to continue.[l]Prijava na Facebook[l]E-pošta ili broj telefona[l]Lozinka[l]Prijavite se[l]Treba vam pomoć?[l]Registriraj se na Facebook
+rw_RW[l]web[l]Iyandikishe[l]Ugomba kwinjira kugira ngo ukomeze.[l]Injira kuri Facebook[l]Imeyiri cyangwa nomero ya telefoni:[l]Ijambobanga[l]Kwinjira[l]Ukeneye ubufasha?[l]Kwiyandikisha kuri Facebook
+is_IS[l]web[l]Skráðu þig[l]Þú þarft að skrá þig inn til að halda áfram.[l]Skráðu þig inn á Facebook[l]Email or Phone Number[l]Lykilorð[l]Innskrá[l]Vantar hjálp?[l]Skráðu þig á Facebook
+it_IT[l]web[l]Iscriviti[l]Devi effettuare l'accesso per continuare.[l]Accedi a Facebook[l]E-mail o numero di telefono[l]Password[l]Accedi[l]Hai bisogno di assistenza?[l]Iscriviti a Facebook
+sw_KE[l]web[l]Jisajili[l]You must log in to continue.[l]Ingia kwenye Facebook[l]Barua Pepe au Nambari ya Simu[l]Nenosiri[l]Ingia[l]Je, unahitaji msaada?[l]Jisajili na Facebook
+ku_TR[l]web[l]Bibe Endam[l]Ji bo ku dewam bikî divê tu têkeviyê[l]Log into Facebook[l]Epeyam an jî Hejmara Telefonê[l]Şîfre[l]Têkeve[l]Need help?[l]Bibe endamê/a Facebookê
+lv_LV[l]web[l]Reģistrēties[l]Jums ir jāpieslēdzas, lai turpinātu.[l]Log into Facebook[l]Email or Phone Number[l]Parole[l]Pieslēgties[l]Need help?[l]Reģistrēties Facebook
+fb_LT[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+lt_LT[l]web[l]Registracija[l]You must log in to continue.[l]Log into Facebook[l]Email or Phone Number[l]Slaptažodis[l]Prisijungti[l]Need help?[l]Registruotis „Facebook“ sistemoje
+la_VA[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+hu_HU[l]web[l]Regisztráció[l]A folytatáshoz be kell jelentkezned.[l]Belépés a Facebookra[l]E-mail cím vagy telefonszám[l]Jelszó[l]Bejelentkezés[l]Segítségre van szükséged?[l]Regisztrálj a Facebookra!
+nl_NL[l]web[l]Registreren[l]Je moet je aanmelden om verder te gaan.[l]Aanmelden bij Facebook[l]E-mailadres of telefoonnummer[l]Wachtwoord[l]Aanmelden[l]Hulp nodig?[l]Registreer je bij Facebook
+nl_BE[l]web[l]Registreren[l]Je moet je aanmelden om verder te gaan.[l]Aanmelden bij Facebook[l]E-mailadres of telefoonnummer[l]Wachtwoord[l]Aanmelden[l]Hulp nodig?[l]Registreer jezelf bij facebook
+nb_NO[l]web[l]Registrer deg[l]Du må logge inn for å fortsette.[l]Logg inn på Facebook[l]E-postadresse eller telefonnummer[l]Passord[l]Logg inn[l]Trenger du hjelp?[l]Registrer deg på Facebook
+nn_NO[l]web[l]Registrer deg[l]Du må logge inn for å halde fram.[l]Log into Facebook[l]E-postadresse eller telefonnummer[l]Passord[l]Logg på[l]Treng du hjelp?[l]Registrer deg på Facebook
+uz_UZ[l]web[l]Ro‘yxatdan o‘tish[l]Davom ettirishingiz uchun a’zo bo‘lishingiz kerak.[l]Log into Facebook[l]Email or Phone Number[l]Parol[l]Kirish[l]Need help?[l]Facebook’ga a’zo bo‘lish
+pl_PL[l]web[l]Rejestracja[l]Zaloguj się, aby kontynuować.[l]Zaloguj się do Facebooka[l]Adres e-mail lub numer telefonu[l]Hasło[l]Zaloguj się[l]Potrzebujesz pomocy?[l]Zarejestruj się na Facebooku
+pt_BR[l]web[l]Cadastre-se[l]Você deve se conectar para continuar.[l]Entrar no Facebook[l]Email ou telefone[l]Senha[l]Entrar[l]Precisa de ajuda?[l]Cadastre-se no Facebook
+pt_PT[l]web[l]Regista-te[l]Tens de iniciar sessão para continuar.[l]Inicia sessão no Facebook[l]E-mail ou número de telemóvel[l]Palavra-passe[l]Iniciar sessão[l]Precisas de ajuda?[l]Regista-te no Facebook
+ro_RO[l]web[l]Înscrie-te[l]Trebuie să te conectezi pentru a continua.[l]Conectează-te la Facebook[l]E-mail sau număr de telefon:[l]Parolă[l]Conectează-te[l]Ai nevoie de ajutor?[l]Înscrie-te pe Facebook
+sq_AL[l]web[l]Anëtarësohu[l]Ju duhet të kyçëni për të vazhduar.[l]Log into Facebook[l]Email or Phone Number[l]Fjalëkalimi[l]Kyçuni[l]Ke nevojë për ndihmë?[l]Regjistrohu në Facebook
+sk_SK[l]web[l]Registrácia[l]Ak chcete pokračovať, musíte sa prihlásiť.[l]Prihlásiť sa na Facebook[l]E-mail alebo telefónne číslo[l]Heslo[l]Prihlásiť sa[l]Potrebujete pomôcť?[l]Zaregistrovať sa na Facebooku
+sl_SI[l]web[l]Pridruži se[l]You must log in to continue.[l]Log into Facebook[l]Email or Phone Number[l]Geslo[l]Prijava[l]Potrebuješ pomoč?[l]Registriraj se na Facebook
+fi_FI[l]web[l]Rekisteröidy[l]Sinun on kirjauduttava sisään, jotta voit jatkaa.[l]Kirjaudu Facebookiin[l]Sähköpostiosoite tai puhelinnumero[l]Salasana[l]Kirjaudu sisään[l]Tarvitsetko apua?[l]Rekisteröidy
+sv_SE[l]web[l]Gå med[l]Du måste logga in för att fortsätta.[l]Logga in på Facebook[l]E-post eller telefonnummer[l]Lösenord[l]Logga in[l]Behöver du hjälp?[l]Gå med i Facebook
+vi_VN[l]web[l]Sign Up[l]You must log in to continue.[l]Log in to Facebook[l]Email address or phone number[l]Password[l]Log In[l]Need help?[l]Sign up for Facebook
+tr_TR[l]web[l]Kaydol[l]Devam etmek için giriş yapmalısın.[l]Facebook'a Giriş Yap[l]E-posta veya Telefon Numarası[l]Şifre[l]Giriş Yap[l]Yardım ister misin?[l]Facebook'a Kaydol
+el_GR[l]web[l]Εγγραφή[l]Για να συνεχίσετε, πρέπει να συνδεθείτε.[l]Συνδεθείτε στο Facebook[l]Email ή αριθμός τηλεφώνου[l]Κωδικός πρόσβασης[l]Σύνδεση[l]Χρειάζεστε βοήθεια;[l]Γραφτείτε στο Facebook
+be_BY[l]web[l]Зарэгістравацца[l]You must log in to continue.[l]Увайсці ў Facebook[l]Email or Phone Number[l]Пароль[l]Увайсці[l]Need help?[l]Зарэгістравацца на Facebook
+bg_BG[l]web[l]Регистрация[l]Трябва да влезете, за да продължите.[l]Вход във Facebook[l]Имейл или телефонен номер[l]Парола[l]Влизане[l]Имате нужда от помощ?[l]Регистриране във Facebook
+kk_KZ[l]web[l]Тіркелу[l]Жалғастыру үшін жүйеге кіруіңіз тиіс.[l]Log into Facebook[l]Email or Phone Number[l]Құпия сөз[l]Кіру[l]Көмек қажет пе?[l]Facebook желісіне тіркелу
+mk_MK[l]web[l]Регистрирај се[l]Мора да се најавиш за да продолжиш.[l]Log into Facebook[l]Email or Phone Number[l]Лозинка[l]Најави се[l]Дали ти треба помош?[l]Регистрирај се на Facebook
+mn_MN[l]web[l]Бүртгүүлэх[l]Та үргэлжлүүлэхийн тулд нэвтрэх ёстой.[l]Фэйсбүүкт нэвтрэх[l]Э-шуудан эсвэл утасны дугаар[l]Нууц үг[l]Нэвтрэх[l]Тусламж хэрэгтэй юү?[l]Фэйсбүүкт бүртгүүлэх
+ru_RU[l]web[l]Регистрация[l]Войдите, чтобы продолжить.[l]Вход на Facebook[l]Эл. адрес или номер телефона[l]Пароль[l]Вход[l]Нужна помощь?[l]Зарегистрируйтесь на Facebook
+sr_RS[l]web[l]Региструј се[l]Морате да се пријавите да бисте наставили.[l]Пријављивање на Фејсбук[l]Имејл или број телефона[l]Лозинка[l]Пријавите се[l]Потребна вам је помоћ?[l]Региструјте се за Фејсбук
+tg_TJ[l]web[l]Бақайдгирӣ[l]Барои идома бояд вориди сомона гардед.[l]Log into Facebook[l]Email or Phone Number[l]Парол[l]Log In[l]Need help?[l]Бақайдгирӣ дар Facebook
+uk_UA[l]web[l]Зареєструватися[l]Для продовження необхідно увійти.[l]Увійти на Facebook[l]Email or Phone Number[l]Пароль[l]Увійти[l]Потрібна допомога?[l]Зареєструватись на Facebook
+ka_GE[l]web[l]რეგისტრაცია[l]You must log in to continue.[l]Log into Facebook[l]Email or Phone Number[l]პაროლი[l]ავტორიზაცია[l]Need help?[l]Sign up for Facebook
+hy_AM[l]web[l]Գրանցվել[l]Շարունակելու համար անհրաժեշտ է մուտք գործել համակարգ:[l]Մտնել Ֆեյսբուք[l]Էլփոստ կամ հեռախոսահամար[l]Գաղտնաբառ[l]Մուտք գործել[l]Օգնությու՞ն է պետք:[l]Գրանցվել Ֆեյսբուքում
+he_IL[l]web[l]הרשמה[l]עליך להתחבר כדי להמשיך.[l]התחבר/י לפייסבוק[l]דוא"ל או מספר טלפון[l]סיסמה[l]התחבר[l]צריך עזרה?[l]הירשם לפייסבוק
+ur_PK[l]web[l]شمولیت اختیار کریں[l]جاری رکھنے کے لئے آپ کو لازمی لاگ ان کرنا ہو گا۔[l]Facebook میں لاگ ان کریں[l]ای میل یا فون نمبر[l]پاس ورڈ[l]داخل ہوں[l]مدد چاہیے؟[l]Facebook میں سائن اپ کریں
+ar_AR[l]web[l]تسجيل[l]يجب عليك تسجيل الدخول للمتابعة.[l]تسجيل الدخول إلى فيسبوك[l]البريد الإلكتروني أو رقم الهاتف[l]كلمة السر[l]تسجيل الدخول[l]هل تحتاج إلى مساعدة؟[l]التسجيل في فيسبوك
+ps_AF[l]web[l]ګڼون جوړ کړۍ[l]‎You must log in to continue.‎[l]‎Log into Facebook‎[l]‎Email or Phone Number‎[l]پټ نوم[l]ننوتل[l]‎Need help?‎[l]په فیس بوک کي ګڼون جوړ کړئ
+fa_IR[l]web[l]نام‌‌نویسی[l]برای ادامه باید به سیستم وارد شوید[l]‎Log into Facebook‎[l]ایمیل یا شماره تلفن:[l]گذر‌واژه[l]ورود[l]به کمک نیاز دارید؟[l]در فیس بوک نام‌نویسی کنید
+cb_IQ[l]web[l]خۆتۆمارکردن[l]تۆ پێویستە بچیتە ژوورەوە بۆ بەردەوامبوون.[l]بچۆ نێو فەیسبووک[l]په‌یامی ئه‌لكترۆنی یان ژماره‌ی ته‌له‌فۆن[l]تێپەڕەوشە[l]چوونە ژوورەوە[l]‎Need help?‎[l]ببە ئەندامی فەیسبووک
+ne_NP[l]web[l]नयाँ खाता खोल्नुहोस्[l]तपाईं अघी बढ्नका लागि लगइन हुनुपर्छ।[l]Log into Facebook[l]इमेल वा फोन नम्बर[l]पासवर्ड[l]प्रवेश गर्नुहोस्[l]सहायता चाहनुहुन्छ?[l]फेसबुकमा नयाँ खाता खोल्नुहोस्
+mr_IN[l]web[l]साइन अप[l]You must log in to continue.[l]Facebook मध्‍ये लॉग इन करा[l]ईमेल किंवा फोन नंबर[l]पासवर्ड[l]लॉग इन[l]मदतीची आवश्यकता आहे?[l]फेसबुकसाठी साइन अप करा
+hi_IN[l]web[l]साइन अप करें[l]आगे बढने के लिए आपको लॉग इन करना होगा.[l]Facebook में लॉग इन करें[l]ईमेल या फ़ोन नंबर[l]पासवर्ड[l]लॉग इन करें[l]मदद चाहिए?[l]Facebook के लिए साइन अप करें
+as_IN[l]web[l]ছাইন আপ কৰক[l]জাৰী ৰাখিবলৈ আপুনি লগ ইন কৰিবই লাগিব।[l]ফেইচবুকত লগ ইন কৰক[l]ইমেইল বা ফোন নম্বৰ[l]পাছৱৰ্ড[l]প্ৰৱেশ কৰক[l]সহায়ৰ প্ৰয়োজন?[l]ফেইচবুকত ছাইন আপ কৰক
+bn_IN[l]web[l]নিবন্ধন করুন[l]চালিয়ে যেতে আপনাকে অবশ্যই লগ-ইন করতে হবে।[l]Facebook-এ লগ ইন করুন[l]ইমেল বা ফোন নম্বর:[l]পাসওয়ার্ড[l]লগ ইন[l]সাহায্যের প্রয়োজন?[l]Facebook এর জন্য সাইন-আপ করুন
+pa_IN[l]web[l]ਮੈਂਬਰ ਬਣੋ[l]ਅਗਾਂਹ ਜਾਣ ਵਾਸਤੇ ਤੁਹਾਡਾ ਦਾਖ਼ਲਾ ਲੈਣਾ ਲਾਜ਼ਮੀ ਹੈ।[l]Facebook 'ਤੇ ਲੌਗ ਇਨ ਕਰੋ[l]ਈਮੇਲ ਜਾਂ ਫੋਨ ਨੰਬਰ:[l]ਪਾਸਵਰਡ[l]ਦਾਖਲ ਹੋਵੋ[l]ਕੀ ਮੱਦਦ ਦੀ ਲੋੜ ਹੈ?[l]ਫੇਸਬੁੱਕ ਦੇ ਮੈਂਬਰ ਬਣੋ।
+gu_IN[l]web[l]જોડાઓ[l]આગળ વધવા માટે પ્રવેશ કરો.[l]Facebook માં લોગ ઇન કરો[l]ઈમેઇલ અથવા ફોન નંબર[l]પાસવર્ડ[l]લૉગ ઇન કરો[l]મદદની જરૂર છે?[l]ફેસબૂક માં જોડાઓ
+or_IN[l]web[l]ସାଇନ୍ ଅପ୍[l]ଜାରି ରଖିବା ପାଇଁ ଆପଣଙ୍କୁ ଲଗ ଇନ କରିବାକୁ ହେବ ।[l]Facebook କୁ ଲଗ୍‌ ଇନ୍‌ କରନ୍ତୁ[l]ଇମେଲ୍ କିମ୍ବା ଫୋନ୍ ନମ୍ବର[l]ପାସ୍‌ୱାର୍ଡ୍[l]ଲଗ୍ ଇନ୍ କରନ୍ତୁ[l]ସହାୟତା ଆବଶ୍ୟକ କରୁଛନ୍ତି?[l]Facebook ପାଇଁ ସାଇନ୍ ଅପ୍ କରନ୍ତୁ
+ta_IN[l]web[l]பதிவு செய்க[l]தொடர்வதற்கு நீங்கள் உள்நுழைய வேண்டும்.[l]Facebook இல் உள்நுழையவும்[l]மின்னஞ்சல் அல்லது மொபைல்[l]கடவுச்சொல்[l]உள் நுழை[l]உதவி வேண்டுமா?[l]Facebook இல் பதிவு பெறவும்
+te_IN[l]web[l]సైన్ అప్ చేయి[l]You must log in to continue.[l]Facebookకు లాగిన్ చేయండి[l]ఇమెయిల్ లేదా ఫోన్ నెంబరు[l]పాస్‌వర్డ్[l]లాగిన్ చేయి[l]సహాయం కావాలా?[l]Facebook కోసం సైన్ అప్ చేయండి
+kn_IN[l]web[l]ಸೈನ್ ಅಪ್ ಮಾಡಿ[l]You must log in to continue.[l]Facebook ಗೆ ಲಾಗ್ ಇನ್ ಆಗಿ[l]ಇಮೇಲ್ ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆ:[l]ಪಾಸ್‌ವರ್ಡ್[l]ಲಾಗಿನ್ ಮಾಡಿ[l]ಸಹಾಯ ಅಗತ್ಯವೇ?[l]ಫೇಸ್‍ಬುಕ್ ಗೆ ನೋಂದಾಯಿಸಿಕೊಳ್ಳಿ
+ml_IN[l]web[l]സൈനപ്പ്[l]തുടരുവാന്‍ താങ്കള്‍ ലോഗിന്‍ ചെയ്യണം.[l]Facebook-ല്‍ ലോഗിന്‍ ചെയ്യുക[l]ഇമെയില് അല്ലെങ്കില് ഫോണ് നമ്പര്:[l]പാസ്‌വേഡ്[l]ലോഗിൻ ചെയ്യുക[l]സഹായം വേണോ?[l]Facebook-നായി സൈനപ്പ് ചെയ്യുക
+si_LK[l]web[l]නව ගිණුමක් තනන්න[l]ඉදිරියට යාමට ඔබ ඇතුළු වි සිටිය යුතුයි.[l]Log into Facebook[l]ඊමේලය හෝ දුරකථන අංකය[l]මුරපදය[l]පිවිසෙන්න[l]උදවු අවශ්‍යද?[l]ෆේස්බුක් සඳහා එක් වෙන්න
+th_TH[l]web[l]สมัครใช้งาน[l]คุณต้องเข้าสู่ระบบเพื่อดำเนินการต่อ[l]เข้าสู่ระบบ Facebook[l]อีเมลหรือหมายเลขโทรศัพท์[l]รหัสผ่าน[l]เข้าสู่ระบบ[l]ต้องการความช่วยเหลือใช่ไหม[l]สมัครใช้งาน Facebook
+my_MM[l]web[l]မှတ်ပုံတင်ရန်[l]သင်ဝင်ရောက်ရန်ဆက်လက်လုပ်ဆောင်ရမည်[l]Facebook သို့ ဝင်ပါ[l]အီးမေးလ် (သို့) ဖုန်းနံပါတ်[l]စကားဝှက်[l]ဝင်ရန်[l]အကူအညီ လိုပါသလား။[l]Facebook အတွက် မှတ်ပုံတင်ပါ
+km_KH[l]web[l]ចុះ​ឈ្មោះ​​[l]អ្នកត្រូវតែចូលកម្មវិធីដើម្បីបន្ត។[l]ចូលទៅកម្មវិធី Facebook[l]អ៊ីម៉ែល ឬលេខទូរស័ព្ទ៖[l]ពាក្យសម្ងាត់[l]ចូល[l]ត្រូវការជំនួយ?[l]ចុះឈ្មោះសម្រាប់ Facebook
+ko_KR[l]web[l]가입하기[l]계속하려면 로그인해주세요.[l]Facebook에 로그인[l]이메일 또는 전화번호[l]비밀번호[l]로그인[l]도움이 필요하세요?[l]Facebook에 가입하기
+zh_TW[l]web[l]註冊[l]你必須登入以繼續。[l]登入 Facebook[l]電子郵件或電話號碼[l]密碼[l]登入[l]需要幫助？[l]申請加入 Facebook
+zh_CN[l]web[l]注册[l]登录后才能继续。[l]登录 Facebook[l]邮箱或手机号[l]密码[l]登录[l]需要帮助？[l]注册 Facebook 帐户
+zh_HK[l]web[l]註冊[l]您必須登入才可繼續。[l]登入 Facebook[l]電郵或電話號碼[l]密碼[l]登入[l]需要幫助？[l]註冊 Facebook 帳戶
+ja_JP[l]web[l]アカウント登録[l]続行するにはログインしてください。[l]Facebookにログイン[l]メールアドレスまたは電話番号:[l]パスワード[l]ログイン[l]ヘルプ[l]Facebookに登録
+ja_KS[l]web[l]アカウント登録[l]続行するにはログインしてください。[l]Facebookにログイン[l]メールアドレスまたは携帯番号:[l]パスワード[l]ログイン[l]ヘルプ[l]Facebookに登録

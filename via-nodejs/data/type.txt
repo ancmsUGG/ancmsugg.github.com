@@ -1,0 +1,1 @@
+a:4:{i:0;a:3:{s:4:"name";s:11:"Chưa dùng";s:5:"color";s:5:"green";s:2:"id";i:0;}i:1;a:3:{s:4:"name";s:14:"Dùng được";s:5:"color";s:4:"blue";s:2:"id";i:1;}i:2;a:3:{s:4:"name";s:16:"Sai Mật khẩu";s:5:"color";s:4:"#ccc";s:2:"id";i:2;}i:3;a:3:{s:4:"name";s:10:"Checkpoint";s:5:"color";s:3:"red";s:2:"id";i:3;}}

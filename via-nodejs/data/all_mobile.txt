@@ -1,0 +1,97 @@
+﻿az_AZ[l]mobile[l]Öncə giriş etməlisən.[l]Email və ya Telefon[l]Şifrə[l]Giriş[l]Yeni Hesab Yarat[l]Şifrəni Unutdunmu?[l]Yardım Mərkəzi
+id_ID[l]mobile[l]Anda harus masuk dulu.[l]Email atau Telepon[l]Kata Sandi[l]Masuk[l]Buat Akun Baru[l]Lupa Kata Sandi?[l]Pusat Bantuan
+ms_MY[l]mobile[l]Anda mesti log masuk terlebih dahulu.[l]E-mel atau Telefon:[l]Kata laluan[l]Log Masuk[l]Cipta Akaun Baru[l]Terlupa Kata Laluan?[l]Pusat Bantuan
+jv_ID[l]mobile[l]Sliramu kudu mlebu dhisik.[l]Email utawa Hape[l]Sandi[l]Mlebu[l]Nggawé Akun Anyar[l]Lali Sandi?[l]Pusat Pitulungan
+cx_PH[l]mobile[l]Kinahanglan kang mo log in una.[l]Email o Telepono[l]Password[l]Pag-log In[l]Paghimo og Bag-ong Account[l]Nakalimtan ang Password?[l]Help Center
+bs_BA[l]mobile[l]Prvo se morate prijaviti.[l]E-mail ili telefon[l]Šifra[l]Prijavite se[l]Kreirajte novi korisnički račun[l]Zaboravili ste lozinku?[l]Centar za pomoć
+br_FR[l]mobile[l]Ret eo deoc'h kevreañ da gentañ.[l]Postel pe pellgomz[l]Ger-tremen[l]Kevreañ[l]Krouiñ ur gont nevez[l]Ankouaet ho ker-tremen ?[l]Kreizenn Skoazell
+ca_ES[l]mobile[l]Primer has d'iniciar sessió.[l]Correu electrònic o telèfon[l]Contrasenya[l]Inicia sessió[l]Crea un nou compte[l]Has oblidat la contrasenya?[l]Centre d'ajuda
+cs_CZ[l]mobile[l]Nejprve se musíte přihlásit.[l]E-mail/telefon[l]Heslo[l]Přihlásit se[l]Vytvořit nový účet[l]Zapomněli jste heslo?[l]Centrum nápovědy
+cy_GB[l]mobile[l]Rhaid i chi fewngofnodi'n gyntaf.[l]E-bost neu Ffôn:[l]Cyfrinair[l]Mewngofnodi[l]Creu cyfrif newydd[l]Wedi Anghofio'r Cyfrinair?[l]Canolfan Cymorth
+da_DK[l]mobile[l]Du skal logge på først.[l]E-mailadresse eller telefon[l]Adgangskode[l]Log på[l]Opret ny konto[l]Glemt adgangskode?[l]Hjælp
+de_DE[l]mobile[l]Du musst dich zuerst anmelden.[l]E-Mail-Adresse oder Handynummer[l]Passwort[l]Anmelden[l]Neues Konto erstellen[l]Passwort vergessen?[l]Hilfebereich
+et_EE[l]mobile[l]Pead kõigepealt sisse logima.[l]E-post või telefon[l]Salasõna[l]Logi sisse[l]Loo uus konto[l]Kas unustasid salasõna?[l]Abikeskus
+en_PI[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+en_GB[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+en_UD[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+en_US[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+es_LA[l]mobile[l]Primero tienes que entrar en Facebook.[l]Correo electrónico o teléfono[l]Contraseña[l]Iniciar sesión[l]Crear una cuenta nueva[l]¿Olvidaste tu contraseña?[l]Servicio de ayuda
+es_CO[l]mobile[l]Primero tienes que entrar en Facebook.[l]Correo electrónico o teléfono[l]Contraseña[l]Iniciar sesión[l]Crear una cuenta nueva[l]¿Olvidaste tu contraseña?[l]Servicio de ayuda
+es_ES[l]mobile[l]Primero tienes que entrar en Facebook.[l]Correo o teléfono[l]Contraseña[l]Entrar[l]Crear cuenta nueva[l]¿Has olvidado la contraseña?[l]Servicio de ayuda
+eo_EO[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+eu_ES[l]mobile[l]Lehenik saioa hasi behar duzu.[l]Helbide elektronikoa edo telefona[l]Pasahitza[l]Sartu[l]Kontu berria sortu[l]Pasahitza ahaztu duzu?[l]Laguntza gunea
+tl_PH[l]mobile[l]Dapat ka munang mag-log in.[l]Email o Telepono[l]Password[l]Mag-log In[l]Gumawa ng Bagong Account[l]Nakalimutan ang Password?[l]Help Center
+fo_FO[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+fr_CA[l]mobile[l]Vous devez d’abord vous connecter.[l]Adresse courriel ou téléphone[l]Mot de passe[l]Connexion[l]Créer un compte[l]Mot de passe oublié&nbsp;?[l]Aide
+fr_FR[l]mobile[l]Vous devez d’abord vous connecter.[l]Adresse e-mail ou mobile[l]Mot de passe[l]Connexion[l]Créer un compte[l]Mot de passe oublié&nbsp;?[l]Pages d’aide
+fy_NL[l]mobile[l]Do moast earst ynlogge.[l]E-mail of telefoan[l]Wachtwurd[l]Oanmelde[l]Nij account oanmeitsje[l]Wachtwurd ferjitten?[l]Helpsintrum
+ga_IE[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+gl_ES[l]mobile[l]Primeiro debes iniciar a sesión.[l]Correo electrónico ou teléfono[l]Contrasinal[l]Iniciar sesión[l]Crear unha nova conta[l]Esqueciches o contrasinal?[l]Centro de axuda
+gn_PY[l]mobile[l]Reikeraë vaerä Facebook-pe.[l]Correo electrónico térä teléfono[l]Contraseña[l]Eike[l]Eñemokuénta pyahu[l]Nderesarái piko ne contraseña?[l]ikatuhápe reñepytyvö
+hr_HR[l]mobile[l]Prvo se morate prijaviti.[l]E-mail ili telefon[l]Lozinka[l]Prijavite se[l]Kreiraj novi korisnički račun[l]Zaboravili ste lozinku?[l]Centar za pomoć
+rw_RW[l]mobile[l]Ugomba kubanza kwinjira.[l]Imeyiri cyangwa telefoni[l]Ijambobanga[l]Kwinjira[l]Guhanga konti nshya[l]Wibagiwe ijambobanga?[l]Santere y' ubufasha
+is_IS[l]mobile[l]Þú verður að skrá þig inn fyrst.[l]Netfang eða símanúmer[l]Lykilorð[l]Innskrá[l]Stofna nýjan aðgang[l]Gleymdirðu lykilorðinu?[l]Hjálparmiðstöð
+it_IT[l]mobile[l]Devi prima effettuare l'accesso.[l]E-mail o telefono[l]Password[l]Accedi[l]Crea nuovo account[l]Password dimenticata?[l]Centro assistenza
+sw_KE[l]mobile[l]Lazima uingie kwanza.[l]Barua Pepe au Simu[l]Nenosiri[l]Ingia[l]Fungua Akaunti Mpya[l]Je, Umesahau Nenosiri?[l]Kituo cha Msaada
+ku_TR[l]mobile[l]Divê tu pêşî têkevî.[l]Epeyam an jî Telefon[l]Nihênî[l]Têkeve[l]Hesabê Nû Biafirîne[l]Nihênî Ji Bîr Kir?[l]Navenda Alîkariyê
+lv_LV[l]mobile[l]Tev vispirms jāpieslēdzas.[l]E-pasta adrese vai tālruņa numurs[l]Parole[l]Pieslēgties[l]Izveidot jaunu profilu[l]Aizmirsi paroli?[l]Palīdzība
+fb_LT[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+lt_LT[l]mobile[l]Pirmiausia turite prisijungti.[l]El. paštas arba telefono numeris[l]Slaptažodis[l]Prisijungti[l]Kurti naują paskyrą[l]Pamiršote slaptažodį?[l]Pagalbos centras
+la_VA[l]mobile[l]You must log in first.[l]Email address or phone number[l]Password[l]Log In[l]Create New Account[l]Forgotten password?[l]Help Centre
+hu_HU[l]mobile[l]Előbb be kell jelentkezned.[l]E-mail vagy telefon[l]Jelszó[l]Bejelentkezés[l]Új fiók létrehozása[l]Elfelejtetted a jelszavad?[l]Súgóközpont
+nl_NL[l]mobile[l]Je moet je eerst aanmelden.[l]E-mail of telefoon[l]Wachtwoord[l]Aanmelden[l]Nieuw account maken[l]Wachtwoord vergeten?[l]Helpcentrum
+nl_BE[l]mobile[l]Je moet eerst inloggen.[l]E-mail of Telefoon[l]Wachtwoord[l]Aanmelden[l]Nieuwe account aanmaken[l]Wachtwoord vergeten?[l]Hulpcentrum
+nb_NO[l]mobile[l]Du må logge inn først.[l]E-post eller mobil[l]Passord[l]Logg inn[l]Opprett ny konto[l]Glemt passordet?[l]Hjelpesenter
+nn_NO[l]mobile[l]Du må logge inn fyrst.[l]E-post eller telefon[l]Passord[l]Logg på[l]Create New Account[l]Gløymt passordet?[l]Hjelpesenter
+uz_UZ[l]mobile[l]Siz birinchi saytga kirishingiz kerak.[l]Email yoki telefon raqami[l]Parol[l]Kirish[l]Yangi akkaunt yaratish[l]Parolni unutdingizmi?[l]Yordam markazi
+pl_PL[l]mobile[l]Najpierw należy się zalogować.[l]Adres e-mail lub numer telefonu[l]Hasło[l]Zaloguj się[l]Utwórz nowe konto[l]Nie pamiętasz hasła?[l]Centrum pomocy
+pt_BR[l]mobile[l]Você deve entrar primeiro.[l]Email ou telefone[l]Senha[l]Entrar[l]Criar nova conta[l]Esqueceu a senha?[l]Central de Ajuda
+pt_PT[l]mobile[l]Tens de iniciar sessão primeiro.[l]E-mail ou telemóvel[l]Palavra-passe[l]Iniciar sessão[l]Criar Conta Nova[l]Esqueceste-te da palavra-passe?[l]Centro de Ajuda
+ro_RO[l]mobile[l]Mai întâi trebuie să te conectezi.[l]E-mail sau mobil[l]Parolă[l]Conectează-te[l]Creează un cont nou[l]Ai uitat parola?[l]Centrul de ajutor
+sq_AL[l]mobile[l]Ju së pari duhet të kyçëni.[l]E-maili  ose Telefoni[l]Fjalëkalimi[l]Kyçuni[l]Krijoni një llogari të re[l]Keni harruar fjalëkalimin?[l]Qendra e ndihmës
+sk_SK[l]mobile[l]Najskôr sa musíte prihlásiť.[l]E-mail alebo telefón[l]Heslo[l]Prihlásiť sa[l]Vytvoriť nový účet[l]Zabudli ste heslo?[l]Centrum pomoci
+sl_SI[l]mobile[l]Najprej se morate prijaviti.[l]E-naslov ali telefon[l]Geslo[l]Prijava[l]Ustvari nov uporabniški račun[l]Si pozabil/a geslo?[l]Središče za pomoč
+fi_FI[l]mobile[l]Sinun on ensin kirjauduttava sisään.[l]Sähköposti tai puhelin[l]Salasana[l]Kirjaudu sisään[l]Luo uusi tili[l]Unohditko salasanasi?[l]Ohje- ja tukikeskus
+sv_SE[l]mobile[l]Du måste logga in först.[l]E-post eller telefon[l]Lösenord[l]Logga in[l]Skapa nytt konto[l]Glömt lösenordet?[l]Hjälpcenter
+vi_VN[l]mobile[l]Trước tiên, bạn phải đăng nhập.[l]Email hoặc số điện thoại[l]Mật khẩu[l]Đăng nhập[l]Tạo tài khoản Facebook mới[l]Quên mật khẩu?[l]Trung tâm trợ giúp
+tr_TR[l]mobile[l]Önce giriş yapmalısın.[l]E-posta veya Telefon[l]Şifre[l]Giriş Yap[l]Yeni Hesap Oluştur[l]Şifreni mi Unuttun?[l]Yardım Merkezi
+el_GR[l]mobile[l]Πρέπει πρώτα να συνδεθείτε.[l]Email ή τηλέφωνο[l]Κωδικός πρόσβασης[l]Σύνδεση[l]Δημιουργία νέου λογαριασμού[l]Ξεχάσατε τον κωδικό πρόσβασης;[l]Κέντρο βοήθειας
+be_BY[l]mobile[l]Вы павінныя спачатку ўвайсьці[l]Email or Phone[l]Пароль[l]Увайсці[l]Стварыць новы ўліковы запіс[l]Забылі пароль?[l]Дапамога
+bg_BG[l]mobile[l]Първо трябва да влезете.[l]Електронна поща или телефон[l]Парола[l]Влизане[l]Създаване на нов профил[l]Забравена парола?[l]Помощен център
+kk_KZ[l]mobile[l]Бірінші сіз кіруіңіз керек.[l]Email or Phone[l]Құпия сөз[l]Кіру[l]Жаңа есептік жазба жасау[l]Құпиясөзді ұмытып қалдыңыз ба?[l]Анықтама орталығы
+mk_MK[l]mobile[l]Мора прво да се најавите.[l]Електронска адреса или телефонски број[l]Лозинка[l]Најави се[l]Креирај нов профил[l]Ја заборави лозинката?[l]Центар за помош
+mn_MN[l]mobile[l]Та эхлээд нэвтрэх ёстой.[l]Э-шуудан эсвэл утас[l]Нууц үг[l]Нэвтрэх[l]Шинэ бүртгэл үүсгэх[l]Нууц үгээ мартчихсан уу?[l]Тусламжийн Төв
+ru_RU[l]mobile[l]Сначала вы должны войти на сайт.[l]Эл. адрес или телефон[l]Пароль[l]Вход[l]Создать новый аккаунт[l]Забыли пароль?[l]Справочный центр
+sr_RS[l]mobile[l]Морате се прво улоговати.[l]Е-пошта или телефон[l]Лозинка[l]Пријавите се[l]Направи нови налог[l]Заборавили сте лозинку?[l]Центар за помоћ
+tg_TJ[l]mobile[l]Аввал шумо бояд ба сомона дароед.[l]Почтаи электронӣ ё телефон[l]Парол[l]Log In[l]Ҳисоби Корбарии Нав Эҷод кун[l]Паролро фаромӯш кардед?[l]Маркази Ёрӣ
+uk_UA[l]mobile[l]Спершу Ви маєте увійти.[l]Електронна пошта або телефон[l]Пароль[l]Увійти[l]Створити новий обліковий запис[l]Забули пароль?[l]Довідковий центр
+ka_GE[l]mobile[l]პირველ რიგში ავტორიზაცია უნდა გაიარო.[l]ელ. ფოსტა ან ტელეფონი[l]პაროლი[l]ავტორიზაცია[l]შექმენით ახალი ანგარიში[l]პაროლი დაგავიწყდათ?[l]დახმარების ცენტრი
+hy_AM[l]mobile[l]Սկզբից դուք պետք է մուտք գործեք:[l]Էլ.փոստ կամ հեռախոս[l]Գաղտնաբառը[l]Մուտք գործել[l]Ստեղծել նոր հաշիվ[l]Մոռացե՞լ եք գաղտնաբառը:[l]Օգնության կենտրոն
+he_IL[l]mobile[l]יש להתחבר תחילה.[l]דוא"ל או טלפון[l]סיסמה[l]התחבר[l]צור/צרי חשבון חדש[l]שכחת את הסיסמה?[l]מרכז העזרה
+ur_PK[l]mobile[l]آپ كو پہلے لاگ ان كرنا ضروری ہے۔[l]ای میل یا فون[l]پاس ورڈ[l]داخل ہوں[l]نیا اکاؤنٹ بنائیں۔[l]پاس ورڈ بھول گئے؟[l]رہنمائی مرکز
+ar_AR[l]mobile[l]عليك تسجيل الدخول أولاً.[l]البريد الإلكتروني أو الهاتف[l]كلمة السر[l]تسجيل الدخول[l]إنشاء حساب جديد[l]هل نسيت كلمة السر؟[l]مركز المساعدة
+ps_AF[l]mobile[l]تاسې لومړی بايد دننه شئ.[l]برېښناليک يا ټليفون[l]پټ نوم[l]ننوتل[l]نوی ګڼوڼ جوړ کړﺉ[l]پټنوم مو هېر دی؟[l]مرستن ځای
+fa_IR[l]mobile[l]ابتدا باید به سیستم وارد شوید.[l]ایمیل یا تلفن[l]گذرواژه[l]ورود[l]حساب جدید بسازید[l]گذرواژه‌تان را فراموش کردید؟[l]مرکز راهنمایی
+cb_IQ[l]mobile[l]‎You must log in first.‎[l]پەیامی ئەلکترۆنی یان تەلەفۆن[l]تێپەڕەوشە[l]چوونە ژوورەوە[l]درووستكردنی هەژماری نوێ[l]تێپەڕەوشەت لە یادکردوە؟[l]ناوەندی یارمەتی
+ne_NP[l]mobile[l]तपाईँ पहिले भित्रिनु पर्ने हुन्छ।[l]इमेल अथवा फोन[l]गोप्य शब्द[l]प्रवेश गर्नुहोस्[l]नयाँ खाता बनाउनुहोस्[l]गोप्य शब्द बिर्सनुभयो?[l]सहयोग केन्द्र
+mr_IN[l]mobile[l]तुम्ही प्रथम प्रवेश केला पाहिजे.[l]इ मेल किंवा दूरध्वनी[l]संकेत शब्द[l]लॉग इन[l]नवीन खाते तयार करा[l]संकेतशब्द विसरला?[l]मदत केंद्र
+hi_IN[l]mobile[l]आपको पहले लॉग इन करना होगा.[l]ईमेल या फ़ोन[l]पासवर्ड[l]लॉग इन करें[l]नया खाता बनाएँ[l]पासवर्ड भूल गए?[l]मदद केंद्र
+as_IN[l]mobile[l]আপুনি প্ৰথমতে লগ ইন কৰিবই লাগিব।[l]ইমেইল বা ফোন[l]পাছৱৰ্ড[l]প্ৰৱেশ কৰক[l]নতুন একাউণ্ট সৃষ্টি কৰক[l]পাছৱৰ্ড পাহৰিলে?[l]সহায় কেন্দ্ৰ
+bn_IN[l]mobile[l]আপনাকে অবশ্যই প্রথমে লগ ইন করতে হবে৷[l]ইমেল বা ফোন[l]পাসওয়ার্ড[l]লগ ইন[l]নতুন অ্যাকাউন্ট তৈরি করুন[l]পাসওয়ার্ড ভুলে গেছেন?[l]সাহায্য কেন্দ্র
+pa_IN[l]mobile[l]ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਲੌਗ ਇਨ ਕਰਨਾ ਪਵੇਗਾ।[l]ਈਮੇਲ ਜਾਂ ਫ਼ੋਨ[l]ਪਾਸਵਰਡ[l]ਦਾਖਲ ਹੋਵੋ[l]ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ[l]ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਹੋ?[l]ਮਦਦ ਕੇਂਦਰ
+gu_IN[l]mobile[l]તમારે પ્રથમ લૉગિન કરવું જરૂરી છે.[l]ઇમેઇલ અથવા ફોન[l]પાસવર્ડ[l]લૉગ ઇન કરો[l]નવું એકાઉન્ટ બનાવો[l]પાસવર્ડ ભૂલી ગયા?[l]મદદ કેન્દ્ર
+or_IN[l]mobile[l]ଆପଣଙ୍କୁ ପ୍ରଥମେ ଲଗ୍ ଇନ୍ କରିବାକୁ ହେବ ।[l]ଇମେଲ୍ କିମ୍ବା ଫୋନ୍[l]ପାସ୍‌ୱାର୍ଡ୍[l]ଲଗ୍ ଇନ୍ କରନ୍ତୁ[l]ନୂତନ ଏକାଉଣ୍ଟ୍ ସୃଷ୍ଟି କରନ୍ତୁ[l]ପାସ୍‌ୱାର୍ଡ୍ ଭୁଲିଗଲେ କି?[l]ସହାୟତା କେନ୍ଦ୍ର
+ta_IN[l]mobile[l]முதலில் நீங்கள் உள்நுழைய வேண்டும்.[l]மின்னஞ்சல் அல்லது மொபைல்[l]கடவுச்சொல்[l]உள் நுழை[l]புதிய கணக்கை உருவாக்கு[l]கடவுச்சொல்லை மறந்துவிட்டீர்களா?[l]உதவி மையம்
+te_IN[l]mobile[l]మీరు తప్పనిసరిగా మొదట లాగినే చేయాలి.[l]ఇమెయిల్ లేదా ఫోన్[l]పాస్‌వర్డ్[l]లాగిన్ చేయి[l]కొత్త ఖాతాని సృష్టించండి[l]పాస్‌వర్డ్‌ని మర్చిపోయారా?[l]సహాయ కేంద్రం
+kn_IN[l]mobile[l]ನೀವು ಮೊದಲು ಲಾಗ್ ಇನ್ ಮಾಡಬೇಕು.[l]ಇಮೇಲ್ ಅಥವಾ ಫೋನ್[l]ಪಾಸ್‌ವರ್ಡ್[l]ಲಾಗಿನ್ ಮಾಡಿ[l]ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ[l]ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರುವಿರಾ?[l]ಸಹಾಯ ಕೇಂದ್ರ
+ml_IN[l]mobile[l]നിങ്ങൾ ആദ്യം ലോഗിൻ ചെയ്യണം.[l]ഇമെയില്‍‍ അല്ലെങ്കില്‍‍ ഫോണ്‍[l]പാസ്‌വേഡ്[l]ലോഗിൻ ചെയ്യുക[l]പുതിയ അക്കൗണ്ട് സൃഷ്ടിക്കുക[l]പാസ്‌വേഡ് മറന്നോ?[l]സഹായ കേന്ദ്രം
+si_LK[l]mobile[l]මුලින්ම ඔබ ප්‍රවිෂ්ට වී සිටිය යුතුයි.[l]විද්‍යුත් තැපෑල හෝ දුරකථනය[l]මුරපදය[l]පිවිසෙන්න[l]නව ගිණුමක් තනන්න[l]මුරපදය අමතක වුනා ද?[l]උපකාරක මධ්‍යස්ථානය
+th_TH[l]mobile[l]คุณต้องเข้าสู่ระบบก่อน[l]อีเมลหรือโทรศัพท์[l]รหัสผ่าน[l]เข้าสู่ระบบ[l]สร้างบัญชีผู้ใช้ใหม่[l]ลืมรหัสผ่านใช่หรือไม่[l]ศูนย์ช่วยเหลือ
+my_MM[l]mobile[l]သင် ပထမဆုံး အကောင့်ဝင်ရောက်ရပါမည်။[l]အီးမေးလ် (သို့) ဖုန်းနံပါတ်[l]စကားဝှက်[l]ဝင်ရန်[l]အကောင့်အသစ် ဖန်တီးရန်[l]စကားဝှက် မေ့နေပါသလား။[l]အကူအညီ စင်တာ
+km_KH[l]mobile[l]អ្នកត្រូវតែចូលកម្មវិធីជាមុនសិន។[l]អ៊ីមែល ឬទូរស័ព្ទ[l]ពាក្យសម្ងាត់[l]ចូល[l]បង្កើតគណនីថ្មី[l]ភ្លេចពាក្យសម្ងាត់?[l]មជ្ឈមណ្ឌលជំនួយ
+ko_KR[l]mobile[l]먼저 로그인하세요.[l]이메일 또는 휴대폰[l]비밀번호[l]로그인[l]새 계정 만들기[l]비밀번호를 잊으셨나요?[l]고객 센터
+zh_TW[l]mobile[l]請先登入。[l]電子郵件或電話：[l]密碼[l]登入[l]建立新帳號[l]忘記密碼？[l]使用說明
+zh_CN[l]mobile[l]你必须先登录。[l]邮箱或手机号[l]密码[l]登录[l]新建帐户[l]忘记密码？[l]帮助中心
+zh_HK[l]mobile[l]你必須先登入。[l]電郵或電話[l]密碼[l]登入[l]建立新帳戶[l]忘記密碼？[l]幫助中心
+ja_JP[l]mobile[l]ログインしてください。[l]メールまたは携帯番号[l]パスワード[l]ログイン[l]新しいアカウントを作成[l]パスワードを忘れた場合はこちら[l]ヘルプセンター
+ja_KS[l]mobile[l]ログインしてください。[l]メールまたは携帯番号[l]パスワード[l]ログイン[l]新しいアカウントを作成[l]パスワードを忘れた場合はこちら[l]ヘルプセンター
